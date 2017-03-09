@@ -1,0 +1,17 @@
+Part1: Fill out this survey - mid-semester check-in
+
+Part2: You will need to use a command line interface for class Wed. Follow the instructions below:
+How to get access to the command line interface (aka shell, aka terminal)
+
+1. if you run Linux, you probably already know, but start the terminal application
+2a. if you have a mac:
+    search for the application called 'terminal' and double click it (if you want real nerd cred, add it to your dock)
+2b. if you run windows:
+    basically, you're better off in the cloud, but if you really want something offline, the best option is called 'git bash', https://git-for-windows.github.io/
+3. if you prefer the cloud:
+    go to cloud.sagemath.com, sign up for a free account, create a new project, create a new file of the type 'terminal' (.term)
+
+once you get in, you should have something that looks like this:
+(pic)
+
+submit an image of your terminal (jpg or png) cut from a screen shot as pt2 of the pre-activity.

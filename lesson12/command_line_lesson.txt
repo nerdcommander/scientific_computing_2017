@@ -1,0 +1,13 @@
+The alternative title of this lesson is "Dude, where's my stuff?!?!" since there is often a learning curve that we need to get over to understanding file and directory structure (aka file paths) and navigating the command line, and if you can't find the directories(folders) and files you need it's kind of a non-starter.
+
+Start here: http://swcarpentry.github.io/shell-novice/
+
+you'll need the files in this compressed file archive -data-shell.zip - so download it and extract/unzip on your Desktop (yes, it matters, put it there).
+
+Work your way through the Software Carpentry The Unix Shell tutorial
+We'll cover Introducing the Shell together in class, you should work through:
+Navigating Files and Directories and
+Working With Files and Directories
+
+Your assignment for turning in - Answer the Questions at the end of the SWC tutorial: The Unix Shell - Working With Files and Directories.
+OK, we realize that the solutions are available, but you only get out what you put in, so answer the questions in your own words before looking at the solutions and only make comments about the given answer if necessary (no copying will be tolerated). This material will be on a quiz, and will save you a lot of trouble in some later activities, so do it right.

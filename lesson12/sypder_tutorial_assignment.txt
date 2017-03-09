@@ -1,0 +1,15 @@
+Spyder IDE assignment
+
+The goal of this assignment is to get you to work a bit in a more traditional way - using an Integrated Development Environment or IDE - rather than the "new wave" Jupyter Notebooks. One piece of good news is that the Anaconda Python platform comes with an IDE called spyder. So...
+
+1. fire up Spyder on your computer.
+
+2. check out Spyder, here is what it looks like in general:
+pic
+the most commonly useful parts are the "Editor" window (on the left) and the console (on the lower right). Another piece of good news is that the IPython console tab on the lower right uses the same commands as the Jupyter Notebooks since they run on the same underlying system (kernel). We will work mostly in the Editor and IPython console.
+
+3. in the help menu there is a menu option for a tutorial, go through it for a while - at least until the "Call existing functions in the console" part. (the tutorial is also available from the author at http://www.southampton.ac.uk/~fangohr/blog/spyder-the-python-ide.html)
+
+4. your assignment is to make a script or program file out of your statistics() or transcribe()/codon()/translate() functions that includes a function call (or set of function calls as appropriate) at the end to run a single test case. Save this file as either statistics.py or transcribe_translate.py, make sure it works, and submit it for this assignment:
+
+Note: while Jupyter Notebooks are becoming more common for reproducible data analysis in science, most Python scripts/programs are written in an IDE and called from within a notebook or from the command line so it is very relevant for y'all to have some skills using these more traditional systems. 
